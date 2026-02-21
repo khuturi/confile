@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/dev/workspace/container_state/build",
+  "command": "/usr/sbin/clang++ -I/home/dev/workspace/container_state/include -g -o CMakeFiles/FileCommandlib.dir/src/ls.cc.o -c /home/dev/workspace/container_state/src/ls.cc",
+  "file": "/home/dev/workspace/container_state/src/ls.cc",
+  "output": "/home/dev/workspace/container_state/build/CMakeFiles/FileCommandlib.dir/src/ls.cc.o"
+},
+{
+  "directory": "/home/dev/workspace/container_state/build",
+  "command": "/usr/sbin/clang++ -I/home/dev/workspace/container_state/include -g -o CMakeFiles/FileCommandlib.dir/src/cat.cc.o -c /home/dev/workspace/container_state/src/cat.cc",
+  "file": "/home/dev/workspace/container_state/src/cat.cc",
+  "output": "/home/dev/workspace/container_state/build/CMakeFiles/FileCommandlib.dir/src/cat.cc.o"
+},
+{
+  "directory": "/home/dev/workspace/container_state/build",
+  "command": "/usr/sbin/clang++ -I/home/dev/workspace/container_state/include -g -o CMakeFiles/FileCommandlib.dir/src/file.cc.o -c /home/dev/workspace/container_state/src/file.cc",
+  "file": "/home/dev/workspace/container_state/src/file.cc",
+  "output": "/home/dev/workspace/container_state/build/CMakeFiles/FileCommandlib.dir/src/file.cc.o"
+},
+{
+  "directory": "/home/dev/workspace/container_state/build",
+  "command": "/usr/sbin/clang++ -I/home/dev/workspace/container_state/include -g -o CMakeFiles/FileCommandlib.dir/src/grep.cc.o -c /home/dev/workspace/container_state/src/grep.cc",
+  "file": "/home/dev/workspace/container_state/src/grep.cc",
+  "output": "/home/dev/workspace/container_state/build/CMakeFiles/FileCommandlib.dir/src/grep.cc.o"
+},
+{
+  "directory": "/home/dev/workspace/container_state/build",
+  "command": "/usr/sbin/clang++ -I/home/dev/workspace/container_state/include -g -o CMakeFiles/main.dir/src/main.cc.o -c /home/dev/workspace/container_state/src/main.cc",
+  "file": "/home/dev/workspace/container_state/src/main.cc",
+  "output": "/home/dev/workspace/container_state/build/CMakeFiles/main.dir/src/main.cc.o"
+}
+]

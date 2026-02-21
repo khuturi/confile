@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/dev/workspace/container_state/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

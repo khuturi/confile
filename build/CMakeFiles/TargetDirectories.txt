@@ -1,0 +1,4 @@
+/home/dev/workspace/container_state/build/CMakeFiles/FileCommandlib.dir
+/home/dev/workspace/container_state/build/CMakeFiles/main.dir
+/home/dev/workspace/container_state/build/CMakeFiles/edit_cache.dir
+/home/dev/workspace/container_state/build/CMakeFiles/rebuild_cache.dir

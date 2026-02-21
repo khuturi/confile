@@ -1,0 +1,17 @@
+# ninja log v7
+54	1105	1771689231898621300	CMakeFiles/main.dir/src/main.cc.o	e754763075baf4e7
+574	717	1769766767747086500	main	ab6116c0c14e0651
+1006	3580	1771689484881481400	/home/dev/workspace/container_state/bin/main	3e1b7f2239377214
+29	95	1770037471057259000	CMakeFiles/SHAREDlib.dir/src/MIN.cc.o	46fdc323a3192b93
+34	200	1770039212857623200	/home/dev/workspace/container_state/lib/libSHAREDlib.so	900719d1e6b247c2
+25	80	1770037471048770400	CMakeFiles/STATIClib.dir/src/MAX.cc.o	29261702fa70d6ab
+34	88	1770038838647078800	/home/dev/workspace/container_state/lib/libSTATIClib.a	53d621bab80c317a
+34	105	1770037995204680300	CMakeFiles/SHAREDlib.dir/src/_MIN.cc.o	83de61c7493b8d40
+34	106	1770038131934852300	CMakeFiles/STATIClib.dir/src/_MAX.cc.o	21ee01aba5c13606
+46	1190	1771690207884204900	build.ninja	4cc254aa2a7e7264
+46	1190	1771690207867342100	/home/dev/workspace/container_state/build/cmake_install.cmake	4cc254aa2a7e7264
+44	906	1771689483920615900	CMakeFiles/FileCommandlib.dir/src/file.cc.o	bb677559e0bb836e
+59	934	1771685471396167600	CMakeFiles/FileCommandlib.dir/src/cat.cc.o	73dae6a16679f86a
+64	2507	1771685471403587700	CMakeFiles/FileCommandlib.dir/src/grep.cc.o	68542ba01cc76d61
+52	1186	1771685471389021000	CMakeFiles/FileCommandlib.dir/src/ls.cc.o	519302ff7865c658
+911	1006	1771689484787977300	/home/dev/workspace/container_state/lib/libFileCommandlib.a	3ca338eafab8cf3e

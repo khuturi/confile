@@ -1,0 +1,1 @@
+/usr/sbin/c++ -fPIC -shared -Wl,--dependency-file=CMakeFiles/SHAREDlib.dir/link.d -Wl,-soname,libSHAREDlib.so -o lib/libSHAREDlib.so CMakeFiles/SHAREDlib.dir/src/MIN.cc.o
